@@ -1,5 +1,6 @@
-{
-  "force_update": false,
-  "expires": "2026-07-15T00:00:00Z",
-  "sig": "4c82cdf2bd26724455b3efb953403de73713e43aee43c5cc7943027d2c5ce8aa"
-}
+  {
+    "force_update": false,
+    "expires": "2026-07-15T00:00:00Z",
+    "content": "test",
+    "sig": "1481630f1aaad63752deb81be1ba05c7315385ad82666146c6938e5a6b539d47"
+  }
